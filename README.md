@@ -2,5 +2,5 @@
 SC16311 HAL Library STM32
 
 
-for change font,change characters in SC_SendChar() function
+for change font,change Bits in SC_SendChar() function
 
